@@ -1,3 +1,4 @@
 int main() {
-cout <<"lloHe World!"<< endl;
+cout <<"12345467890"<< endl;
+cout <<"Wor lloHe ld!"<< endl;
 }
